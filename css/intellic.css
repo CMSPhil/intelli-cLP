@@ -75,6 +75,10 @@ video {
         transform: skewY(4deg);
         transform-origin: bottom right;
     }
+
+    #H1Min {
+        padding-top: 3rem;
+    }
 }
 
 @media (min-width:768px) {
